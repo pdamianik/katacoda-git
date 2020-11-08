@@ -1,4 +1,4 @@
-# Scenario 6
+# Scenario 7
 [back to overview](README.md)
 
 ## `git log`
