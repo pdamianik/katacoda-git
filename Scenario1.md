@@ -1,5 +1,5 @@
 # Scenario 1
-[back](README.md)
+[back to overview](README.md)
 ## `git init`
 Initialises a new repository.
 ## `git status`

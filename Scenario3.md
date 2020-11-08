@@ -1,5 +1,5 @@
 # Scenario 3
-[back](README.md)
+[back to overview](README.md)
 ## `git remote`
 This command provides methods to manage a remote repository location to share the respository somewhere.
 ## `git clone`

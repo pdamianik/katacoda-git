@@ -1,5 +1,5 @@
 # Scenario 2
-[back](README.md)
+[back to overview](README.md)
 ## `git diff`
 Outputs a comparison between the previous commit that the current working tree is based of (`HEAD`) and the current working tree.
 `git diff` alone won't compare files that are in the current staging area. If you want to compare the `HEAD` to the staging area you have to use `git diff `**`--staged`**.
