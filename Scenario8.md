@@ -1,4 +1,4 @@
-# Scenario 8
+# Scenario 8 - Being Picky With Git
 [back to overview](README.md)
 
 ## `git cherry-pick`

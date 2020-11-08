@@ -1,4 +1,4 @@
-# Scenario 9
+# Scenario 9 - Re-writing History
 [back to overview](README.md)
 
 ## `git rebase --interactive`

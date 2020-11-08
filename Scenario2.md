@@ -1,4 +1,4 @@
-# Scenario 2
+# Scenario 2 - Committing Changes
 [back to overview](README.md)
 ## `git diff`
 Outputs a comparison between the previous commit that the current working tree is based of (`HEAD`) and the current working tree.

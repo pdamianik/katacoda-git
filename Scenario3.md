@@ -1,4 +1,4 @@
-# Scenario 3
+# Scenario 3 - Working Remotely
 [back to overview](README.md)
 ## `git remote`
 This command provides methods to manage a remote repository location to share the respository somewhere.

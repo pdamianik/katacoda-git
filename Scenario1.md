@@ -1,4 +1,4 @@
-# Scenario 1
+# Scenario 1 - Committing Files
 [back to overview](README.md)
 ## `git init`
 Initialises a new repository.

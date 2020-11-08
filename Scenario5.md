@@ -1,4 +1,4 @@
-# Scenario 5
+# Scenario 5 - Fixing Merge Conflicts
 [back to overview](README.md)
 
 ## `git merge`

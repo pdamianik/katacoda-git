@@ -1,4 +1,4 @@
-# Scenario 6
+# Scenario 6 - Experiments Using Branches
 [back to overview](README.md)
 
 ## `git branch`

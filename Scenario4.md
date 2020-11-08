@@ -1,4 +1,4 @@
-# Scenario 4
+# Scenario 4 - Undoing Changes
 [back to overview](README.md)
 ## `git checkout`
 Used to move the `HEAD`/commit the working tree is based of of. Without a parameter this command will just list the current tracking information. (this command required some [extra research](https://git-scm.com/docs/git-checkout))

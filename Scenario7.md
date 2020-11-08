@@ -1,4 +1,4 @@
-# Scenario 7
+# Scenario 7 - Finding Bugs
 [back to overview](README.md)
 
 ## `git log`
